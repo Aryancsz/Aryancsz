@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryancsz(Mallikarjun D. Hiremath
 - 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning Full stack 
+- 🌱 I’m currently working as Full stack developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
